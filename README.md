@@ -23,16 +23,16 @@ I used 15 evenly-spaced points along the 256-value colormaps, and assembled them
 ![viridis](ramp_previews/viridis.png)
 
 ## Adding the styles to ArcMap 10.x
-1. Go to Customize -> Style Manager...
+Step 1. Go to Customize -> Style Manager...
 
 ![](adding_to_arcmap/step1.png)
 
-2. Then "Styles..."
+Step 2. Then "Styles..."
 
 ![](adding_to_arcmap/step2.png)
 
-3. Then "Add Style to List..."
+Step 3. Then "Add Style to List..."
 
 ![](adding_to_arcmap/step3.png)
 
-4. Select the matplotlib.style file and add it.
+Step 4. Select the matplotlib.style file and add it.
