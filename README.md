@@ -5,7 +5,7 @@ For more background and an informational talk, see [this page.](https://bids.git
 
 This style file uses the values in https://github.com/BIDS/colormap/blob/master/colormaps.py to build color ramps for ArcGIS.
 
-I used 15 evenly-spaced points along the 256-value colormaps, and assembled them as multi-part algorithmic color ramps using the CIE Lab algorithm.
+I used 15 evenly-spaced points along the 256-value colormaps, and assembled them as multi-part algorithmic color ramps using the CIE Lab algorithm. Here's how they turned out:
 
 **Magma:**
 
