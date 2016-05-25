@@ -8,16 +8,16 @@ I used 15 evenly-spaced points along the 256-value colormaps, and assembled them
 
 **Magma:**
 
-![magma](magma.png)
+![magma](ramp_previews/magma.png)
 
 **Inferno:**
 
-![inferno](inferno.png)
+![inferno](ramp_previews/inferno.png)
 
 **Plasma:**
 
-![plasma](plasma.png)
+![plasma](ramp_previews/plasma.png)
 
 **Viridis:**
 
-![viridis](viridis.png)
+![viridis](ramp_previews/viridis.png)
